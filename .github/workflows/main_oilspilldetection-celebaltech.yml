@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'oilspilldetection-CELEBALTECH'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_6AE1D5B3C02E4A6A97E264948A3AD7EE }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_A31AA47D80D4459EB2DCA082EBA280BD }}
