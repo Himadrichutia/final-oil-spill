@@ -4,7 +4,7 @@ import os , io , sys
 import numpy as np
 import cv2
 import base64
-#from yolo_detection_images import runModel
+from yolo_detection_images import runModel
 
 
 
